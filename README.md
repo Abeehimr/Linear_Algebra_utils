@@ -1,6 +1,9 @@
 # Linear_Algebra_utils
 this repo contains some Linear_Algebra utilities that i needed at some time. 
-# reduced_echlon_from_maker
+
+
+<details>
+  <summary><h1>reduced_echlon_from_maker</h1></summary>
 This Python script performs basic matrix row operations and solves a given matrix using Gaussian elimination. The script includes functions to print matrices, switch rows, multiply rows by a scalar, and add rows together. It also includes functionality to find non-zero rows and a main function to take user input and solve the matrix.
 
 ## Functions
@@ -33,3 +36,5 @@ Run the script, and it will prompt for the number of rows and columns of the mat
 ```python
 if __name__ == "__main__":
     main()
+```
+</details>
